@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.80c81e5e.css","mappings":"AAAA,KACE,iBACF,CACA,mBAEE,wBAAyB,CACzB,kBAAmB,CAFnB,WAAY,CAGZ,iBACF","sources":["App.css"],"sourcesContent":[".App {\n  text-align: center;\n}\n.component-wrapper{\n  margin: 10px;\n  border: 2px solid #E9967A;\n  border-radius: 10px;\n  text-align: center;\n}\n"],"names":[],"sourceRoot":""}
