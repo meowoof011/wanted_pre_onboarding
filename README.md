@@ -1,6 +1,7 @@
 # 원티드 프리온보딩 과제
 
 ### 배포 URL
+<code>https://meowoof011.github.io/wanted_pre_onboarding/</code>
 
 ### 실행 방법
   1. git clone https://github.com/meowoof011/wanted_pre_onboarding.git 
